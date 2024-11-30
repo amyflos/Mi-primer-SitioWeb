@@ -1,0 +1,70 @@
+/*Cuerpo de la pagina*/
+body {
+    background: rgb(210, 131, 230);
+    background: radial-gradient(circle, rgb(153, 88, 233) 55%, rgba(183, 90, 219, 0.533) 62%);
+    /*Cambio de letra*/
+    font-family: "Sour Gummy", sans-serif;
+    /*Cambio de tamaño de letra*/
+    font-size: 30px;
+    color: black;
+    text-align: left;
+}
+
+/*Cambios para imagen*/
+img {
+    width: 800px;
+    border-radius: 10px;
+
+}
+
+.bities {
+    width: 900px;
+    opacity: 0.9;
+    border: dashed;
+    color: rgb(250, 245, 252);
+}
+
+.gruporelajo {
+    border-radius: 10px;
+    width: 900px;
+    border: dashed;
+    color: rgb(244, 243, 245);
+    /*background-color: rgb(160, 83, 196)opacidad de la letra de class*/
+}
+
+.pestañas {
+    background-color: #a143c0;
+    font-size: 33px;
+    text-align: right;
+    
+    
+}
+
+h2 {
+    text-align: left;
+}
+
+.discografia {
+    border: dashed;
+    font-size: 23px;
+    color: rgb(43, 40, 40);
+    text-align: left;
+
+
+    /*border: double*/
+
+}
+
+/*background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVYnhAjhfZs8_9Zw4TGsVJVDfU23sjNY4Mrg&s");*/
+/*COMANDO PARA PONER UNA IMAGEN COMO FONDO*/
+h1 {
+    text-align: left;
+}
+
+.fotos{
+    text-align: center;
+}
+
+.nombres{
+    text-align: left;
+}
